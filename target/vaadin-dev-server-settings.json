@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/target/flow-frontend",
+  "staticOutput": "/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/target/classes/META-INF/VAADIN/webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
