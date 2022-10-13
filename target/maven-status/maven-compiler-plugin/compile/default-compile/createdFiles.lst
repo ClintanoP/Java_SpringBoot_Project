@@ -1,0 +1,16 @@
+com/example/application/data/service/CrmService.class
+com/example/application/data/repository/CompanyRepository.class
+com/example/application/views/list/ContactForm.class
+com/example/application/data/repository/ContactRepository.class
+com/example/application/Application.class
+com/example/application/data/entity/Company.class
+com/example/application/data/entity/Contact.class
+com/example/application/data/generator/DataGenerator.class
+com/example/application/views/list/ContactForm$CloseEvent.class
+com/example/application/data/entity/Status.class
+com/example/application/views/list/ContactForm$DeleteEvent.class
+com/example/application/views/list/ContactForm$SaveEvent.class
+com/example/application/views/list/ContactForm$ContactFormEvent.class
+com/example/application/data/entity/AbstractEntity.class
+com/example/application/data/repository/StatusRepository.class
+com/example/application/views/list/ListView.class

@@ -1,0 +1,12 @@
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/entity/Company.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/repository/CompanyRepository.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/views/list/ListView.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/Application.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/entity/Contact.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/service/CrmService.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/repository/StatusRepository.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/entity/Status.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/generator/DataGenerator.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/entity/AbstractEntity.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/data/repository/ContactRepository.java
+/Users/ck/Code/Personal Projects/Java_SpringBoot_Project/src/main/java/com/example/application/views/list/ContactForm.java

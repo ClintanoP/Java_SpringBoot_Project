@@ -129,4 +129,7 @@ public static abstract class ContactFormEvent extends ComponentEvent<ContactForm
       ComponentEventListener<T> listener) { 
     return getEventBus().addListener(eventType, listener);
   }
+
+public void addListener(Class<SaveEvent> class1, Object listener) {
+}
 }
